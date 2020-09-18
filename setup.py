@@ -7,7 +7,6 @@ requirements = [
       'decorator',
       'gensim',
       'isodate',
-      'matplotlib',
       'networkx',
       'nltk',
       'numpy',
